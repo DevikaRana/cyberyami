@@ -1,0 +1,64 @@
+.header{
+    
+    margin-left: 1vw;
+    display: flex;
+    width: 98%;
+    
+    position: fixed;
+    border-radius: 3vh;
+    border: 2px solid #ccc;
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+    margin-top: -25vh;
+    background-color: rgb(248, 248, 241);
+}
+
+.headO{
+    margin-left: 10%;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.logo{
+   width: 20%; 
+   margin: 1%;
+    
+}
+.navlist{
+
+    margin-top: 8px;
+    width: 57%;
+    
+}.ul1{
+    display: flex;
+    list-style-type: none;
+
+}
+
+li{
+    margin-left: 50px;
+    
+}
+
+.login1{
+    display: flex;
+
+   
+    list-style-type: none;
+    
+}
+
+.login{
+    width: 20%;
+    margin-top: 8px;
+}
+.login2{
+    background-color: rgb(160, 210, 84);
+    padding: 1vh;
+    margin-top: -1vh;
+    margin-left: 3.5vh;
+    border-radius: 1vh;
+    cursor: pointer;
+}
+.sgn{
+    cursor: pointer;
+}

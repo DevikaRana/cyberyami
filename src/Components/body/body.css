@@ -1,0 +1,110 @@
+.body{
+    font-family:'DM Sans',sans-serif;
+    margin-top: 190px;
+    width: 90%;
+    margin-left: 15vh;
+ 
+}
+.intro{
+    width: 55%;
+}
+.para{
+    color: rgb(142 142 142);
+}
+.enroll{
+    background-color: rgb(93, 175, 93);
+    width: 15%;
+    padding: 2vh;
+    padding-left: 3vh;
+    padding-right: 2vh;
+    border-radius: 2vh;
+    color:rgb(56, 56, 56) ;
+}
+.thbg{
+    display: flex;
+}
+.thbg p{
+    margin-right: 2vh;
+}
+.courseCont{
+    margin-left: 25vh;
+    padding-right: 25vh;
+    border:0.5px solid black;
+}
+.description{
+    width: 50%;
+}
+.description p{
+    color:rgb(59, 59, 59);;
+}
+.overview{
+    display: flex;
+    flex-direction: row;
+  margin-left: 5%;
+  margin-right: 10%;
+    justify-content: space-between;
+    width: 80%;
+    font-size: medium;
+}
+
+.list{
+    list-style-type: none;
+}
+.dList{
+    align-items: center;
+}
+.top{
+    margin-left: 90px;
+}
+.include{
+    margin-top: 80px;
+}
+.include1{
+    margin-top: 30px;
+    display: flex;
+    width: 70%;
+    margin-left: 15%;
+}
+.card:hover{
+ 
+    background-color: #a3a2a2;
+    cursor: pointer;
+  
+  }
+  
+  .card{
+    width: 270px;
+    height: 300px;
+    background-color: rgb(250, 248, 246);
+    box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 10px;
+    margin: 30px 20px;
+    border-radius: 20px;
+  }
+  
+  .card:hover {
+    border: 1px solid rgb(135, 133, 132);
+    cursor: pointer;
+    background-color: rgb(230, 245, 213);
+  }
+  .heading{
+    margin: auto;
+  }
+
+  .hd{
+     margin-left: 10%;
+  }
+  .cardImg{
+    width: 30%;
+    margin-left: 35%;
+    margin-top: 35%;
+    
+  }
+
+  .division{
+    display: flex;
+    
+  }
+  .divisionR{
+    margin-left: 30px;
+  }
